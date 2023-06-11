@@ -2,7 +2,7 @@
 //  OTUS_1App.swift
 //  OTUS_1
 //
-//  Created by artem-ustinov on 04.06.2023.
+//  Created by Артем Устинов on 11.06.2023.
 //
 
 import SwiftUI
